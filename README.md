@@ -1,3 +1,10 @@
+## Fork
+I forked the original node-irc (written by Martyn Smith) as there has been no development in years. I mostly forked this to pull in some of the PRs that fixed a few bugs I've encountered. Below you will find the original documentation, however the Installation section is no longer valid. If you want to use this fork in your project you can install it with npm:
+
+```
+npm install zordtk/node-irc
+```
+
 [node-irc](http://node-irc.readthedocs.org/) is an IRC client library written in [JavaScript](http://en.wikipedia.org/wiki/JavaScript) for [Node](http://nodejs.org/).
 
 You can access more detailed documentation for this module at [Read the Docs](http://readthedocs.org/docs/node-irc/en/latest/)
