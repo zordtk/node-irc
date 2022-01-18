@@ -35,7 +35,7 @@
     "irc-colors": "^1.5.0"
   },
   "optionalDependencies": {
-    "iconv": "~2.3.5",
+    "iconv": "~3.0.1",
     "detect-character-encoding": "~0.8.0"
   },
   "devDependencies": {
